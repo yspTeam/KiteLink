@@ -49,7 +49,7 @@ public class Map extends KLObject {
 
     public Array values() {
         Collection<KLObject> cValues = value.values();
-        
+
         KLObject[] objArray = (KLObject[]) cValues.toArray();
         Array array = new Array(objArray.length);
         for (int i = 0; i < objArray.length; i++) {

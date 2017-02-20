@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KiteLink.iml" filepath="$PROJECT_DIR$/KiteLink.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kitelinklib/kitelinklib.iml" filepath="$PROJECT_DIR$/kitelinklib/kitelinklib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitelink/kitelink.iml" filepath="$PROJECT_DIR$/kitelink/kitelink.iml" />
     </modules>
   </component>
 </project>
