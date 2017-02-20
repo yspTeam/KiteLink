@@ -6,7 +6,7 @@ import java.io.UnsupportedEncodingException;
  * Created by ming on 2017/2/20.
  */
 
-public class String {
+public class String extends KLObject{
     private java.lang.String value = "";
 
     public String() {
