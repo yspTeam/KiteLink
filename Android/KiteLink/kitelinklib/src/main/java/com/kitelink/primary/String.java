@@ -1,4 +1,4 @@
-package com.kitelink.lib;
+package com.kitelink.primary;
 
 import java.io.UnsupportedEncodingException;
 

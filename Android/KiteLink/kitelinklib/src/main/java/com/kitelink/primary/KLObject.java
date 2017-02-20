@@ -1,4 +1,4 @@
-package com.kitelink.lib;
+package com.kitelink.primary;
 import java.lang.String;
 /**
  * Created by ming on 2017/2/20.
